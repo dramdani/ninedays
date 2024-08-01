@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.7f1
+CRC: 2875195924
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d07f02555781c59184640663e43182e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1dddbc9f5d87114004f321311e3c8e28
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 087bfcca43c452357c6f8336bd977b7a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 77908cbaef3954fe3bdffbe76d8e0db4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 328
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/NineDays/Prefabs/ninedays_banner.prefab
+Dependencies: []
